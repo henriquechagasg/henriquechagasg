@@ -1,4 +1,6 @@
-### Hi there 👋
+## About
+ Full Stack Developer focused on javascript and it's frameworks for user interface development and Node.js for API's and backend devolpment.
+ 
 
 <!--
 **henriquechagasg/henriquechagasg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
