@@ -1,5 +1,17 @@
+# Henrique Chagas
+
 ## About
- Full Stack Developer focused on javascript and it's frameworks for user interface development and Node.js for API's and backend devolpment.
+ Full Stack Developer focused on javascript and it's frameworks for building user interfaces and Node.js for API's and backend devolpment.
+ <br />
+ Visit my website to know more about me and my work.
+ <br />
+ 
+[![Generic badge](https://img.shields.io/badge/🚀-WEBSITE-<COLOR>.svg)](https://shields.io/)
+## Main Technologies
+![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
  
 
 <!--
