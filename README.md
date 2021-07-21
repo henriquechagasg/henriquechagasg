@@ -6,7 +6,7 @@
  Visit my website to know more about me and my work.
  <br />
  
-[![Generic badge](https://img.shields.io/badge/🚀-WEBSITE-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/🚀-WEBSITE-<COLOR>.svg)](https://henriquechagas.space)
 ## Main Technologies
 ![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
